@@ -83,7 +83,7 @@ The cleaned dataset was exported and imported into Power BI to build an interact
 
 ---
 
-## Key Insights (Example)
+## Key Insights 
 
 - Certain locations consistently show significantly higher average price per m².
 - Larger bedroom properties tend to have higher price per m², but demand (homes sold) may peak in mid-range bedrooms.
